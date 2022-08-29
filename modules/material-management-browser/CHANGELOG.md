@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0](/compare/@aws-crypto/material-management-browser@1.9.0...@aws-crypto/material-management-browser@1.10.0) (2022-08-29)
+
+
+### Features
+
+* ***Client:** Warn of V1 End of Support a977af6
+
+
+
+
+
 # [1.9.0](https://github.com/aws/private-aws-encryption-sdk-javascript-staging/compare/@aws-crypto/material-management-browser@1.7.0...@aws-crypto/material-management-browser@1.9.0) (2021-05-27)
 
 
